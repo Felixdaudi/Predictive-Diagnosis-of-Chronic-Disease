@@ -1,0 +1,7 @@
+  
+django
+joblib
+scikit-learn
+psycopg2
+
+Postgres-PgAdmin Database
